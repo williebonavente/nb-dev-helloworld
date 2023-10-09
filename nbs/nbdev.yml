@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nb-dev-helloworld"
+  site-url: "https://williebonavente.github.io/nb-dev-helloworld"
+  description: "Learning software development using jupyter notebook."
+  repo-branch: main
+  repo-url: "https://github.com/williebonavente/nb-dev-helloworld"
